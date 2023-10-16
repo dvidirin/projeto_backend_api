@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  {% for id, personagem in personagens.items() %}
+  <title>Personagens - {{personagem['titulo']}}</title>
+  {% endfor %}
+</head>
+
+<body>
+  {% for id, personagem in personagens.items() %}
+  <header>
+    <h1>{{personagem['nome']}}</h1>
+  </header>
+  <main>
+    <h2>{{ocupacao}}</h2>
+    <img src="{{personagem['imagem']}}" alt="{{personagem['nome']}}">
+    <p>{{personagem['personalidade']}}</p>
+    <p>{{personagem['descricao']}}</p>
+  </main>
+  {% endfor %}
+</body>
+
+</html>

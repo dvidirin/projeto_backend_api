@@ -1,0 +1,65 @@
+/* Defina uma cor de fundo que lembre areia/arqueologia */
+body {
+  background-color: #F2E4C3;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilo do cabeçalho */
+header {
+  background-color: #B4A185;
+  color: #FFF;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Estilo do título principal */
+h1 {
+  font-size: 36px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+/* Estilize o subtítulo */
+.subtitle {
+  font-size: 24px;
+  /* Ajuste o tamanho do texto conforme necessário */
+  text-align: center;
+  /* Centralize o texto horizontalmente */
+}
+
+/* Estilo do subtítulo */
+p {
+  font-size: 18px;
+  margin: 0;
+}
+
+/* Estilo para as páginas de personagens */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #FFF;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para imagens de personagens */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Estilo para os subtítulos nas páginas de personagens */
+h2 {
+  font-size: 24px;
+}
+
+/* Estilo para o texto das páginas de personagens */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: justify;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <style>
+    body {
+      background-image: url("{{ url_for('static', filename='images/egypt_bg.jpg') }}");
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-color: rgba(255, 255, 255, 0.7);
+      /* Adiciona transparência ao fundo */
+    }
+  </style>
+  <title>Aventuras Arqueológicas: Em Busca das Relíquias Perdidas</title>
+</head>
+
+<body>
+  <header>
+    <h1>Aventuras Arqueológicas</h1>
+    <p class="subtitle">Em Busca das Relíquias Perdidas</p>
+  </header>
+  <main>
+    <h2>Descrição do Jogo</h2>
+    <p>Entre em um mundo repleto de mistérios e lendas antigas. Junte-se ao Dr. David Mitchell e Maya em uma emocionante
+      expedição arqueológica no "Vale dos Segredos Eternos". Descubra relíquias mágicas e enfrente os Guardiões das
+      Relíquias!</p>
+  </main>
+</body>
+
+</html>
