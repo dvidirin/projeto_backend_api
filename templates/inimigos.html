@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <title>Lista de Inimigos</title>
+</head>
+
+<body>
+  <h1>Lista de Inimigos</h1>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Nome</th>
+      <th>Tipo</th>
+      <th>Poder</th>
+      <th>Vida</th>
+      <th>Imagem</th>
+    </tr>
+    {% for id, inimigo in inimigos.items() %}
+    <tr>
+      <td>{{ id }}</td>
+      <td>{{ inimigo['nome'] }}</td>
+      <td>{{ inimigo['tipo'] }}</td>
+      <td>{{ inimigo['poder'] }}</td>
+      <td>{{ inimigo['vida'] }}</td>
+      <td><img src="{{ inimigo['imagem'] }}" alt="thumbnail" class="img-thumbnail"</td>
+      <td>
+        <a href="/editar/{{ id }}">Editar</a>
+        <a href="/deletar/{{ id }}">Deletar</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+  <a href="/adicionar">Adicionar Novo Inimigo</a>
+</body>
+
+</html>
