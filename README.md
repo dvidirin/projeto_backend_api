@@ -1,23 +1,19 @@
-# Projeto em Grupo - Módulo Backend - Korú / iFood Academy
+![Green Retro Vintage Oak Tree Logo (Capa para Facebook) (1640 × 200 px)](markedown/capa_face.png)
+# Projeto Integrador Backend <br> Escola Korú <br> Idealizado Pela Parceria do iFood / Potência Tech
 
-<b>Este projeto foi elaborado por:</b>
-
-<ul>
-<li>Cesar Costa - cesar.costa.cac.1993@gmail.com</li>
-<li>Daniel Vidiri Neto - dvn.face@gmail.com</li>
-<li>Dyego Magno - dyegowolf@gmail.com</li>
-<li>João Sales - joaomarcos0107@yahoo.com.br</li>
-<li>Moises Hilel - moises.hilel@gmail.com</li>
-<li>Morena Flowers - msgparamona@gmail.com</li>
-<li>Patricia Gheller - patricia.gheller.1985@gmail.com</li>
-<li>Yáshina Gomes - yashinagm@gmail.com</li>
-</ul>
+## Curso de Flask, CRUD, BD, testes e API <br> Grupo 8 - Professor: Gabriel
+### Repositório com os arquivos criados durante o projeto do môdulo Backend.
 
 ---
 
+## **TEMA** <br><br>Aventuras Arqueológicas<br><br>Em Busca das Relíquias Perdidas
+Entre em um mundo repleto de mistérios e lendas antigas. Junte-se ao Dr. David Mitchell e Maya em uma emocionante
+expedição arqueológica no "Vale dos Segredos Eternos". Descubra relíquias mágicas e enfrente os Guardiões das
+Relíquias!
+
 ## Objetivo do Projeto
 
-#### Desenvolver uma aplicação Flask para fornecer conteúdo web, que é a criação de um backend do site do jogo proposto no projeto de SCRUM.
+#### Desenvolver uma aplicação Flask para fornecer conteúdo web, que é a criação de um backend, mostrando o site do jogo proposto no projeto de SCRUM.
 
 ---
 
@@ -37,7 +33,43 @@ Uma linguagem usada para estilizar elementos escritos em uma linguagem de marca�
 
 ---
 
-## Como utilizar
+## :handshake: **EQUIPE:**
+
+<b>Este projeto foi elaborado por:</b>
+
+| Perfil | Nome e Email | Localização | Github | Linkedin |
+| ---------------- | ----- | --------- | --------- | --------- |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Cesar Augusto da Costa`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Daniel Vidiri Neto`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Dyego Magno`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `João Sales`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Moises Hilel`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Morena Flowers`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Patricia Gheller`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Yáshina Gomes`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+
+<b>Este projeto foi elaborado por:</b>
+<ul>
+<li>Cesar Costa - cesar.costa.cac.1993@gmail.com</li>
+<li>Daniel Vidiri Neto - dvn.face@gmail.com</li>
+<li>Dyego Magno - dyegowolf@gmail.com</li>
+<li>João Sales - joaomarcos0107@yahoo.com.br</li>
+<li>Moises Hilel - moises.hilel@gmail.com</li>
+<li>Morena Flowers - msgparamona@gmail.com</li>
+<li>Patricia Gheller - patricia.gheller.1985@gmail.com</li>
+<li>Yáshina Gomes - yashinagm@gmail.com</li>
+</ul>
+
+## **Como Contribuir**
+
+* [Guia de Principais Funções dos Comandos do Git](markedown/como_contribuir_principais_comandos_git.md)
+
+* [Guia para a Equipe](markedown/como_contribuir_equipe.md)
+
+* [Guia para a Comunidade](markedown/como_contribuir_comunidade.md)
+
+
+## Como utilizar o Projeto
 
 ### 1-Pré-requisitos
 
@@ -74,6 +106,16 @@ O projeto foi desenvolvido dentro do VSCode<br>
 - O aplicativo executará com sucesso.
 
 - No navegador, para trocar da página "index.html" para a página "personagens.html", digitar "/personagens" no final do endereço que foi gerado pelo Flask.
+
+---
+
+## Agradecimentos
+
+* Escola Korú;
+* iFood;
+* Potência Tech;
+* Professor [Gabriel]();
+* À cada membro do projeto pela dedicação.
 
 ---
 
