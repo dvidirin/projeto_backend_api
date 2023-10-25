@@ -1,4 +1,4 @@
-![Green Retro Vintage Oak Tree Logo (Capa para Facebook) (1640 × 200 px)](markedown/capa_face.png)
+![Green Retro Vintage Oak Tree Logo (Capa para Facebook) (1640 × 200 px)](markedown/img/capa_face.png)
 # Projeto Integrador Backend <br> Escola Korú <br> Idealizado Pela Parceria do iFood / Potência Tech
 
 ## Curso de Flask, CRUD, BD, testes e API <br> Grupo 8 - Professor: Gabriel
@@ -39,35 +39,27 @@ Uma linguagem usada para estilizar elementos escritos em uma linguagem de marca�
 
 | Perfil | Nome e Email | Localização | Github | Linkedin |
 | ---------------- | ----- | --------- | --------- | --------- |
-| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Cesar Augusto da Costa`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
-| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Daniel Vidiri Neto`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
-| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Dyego Magno`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
-| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `João Sales`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
-| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Moises Hilel`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
-| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Morena Flowers`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
-| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Patricia Gheller`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
-| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Yáshina Gomes`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865"> | `Cesar Augusto da Costa`<br><br>cesar.costa.cac.1993@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Daniel" src="https://avatars.githubusercontent.com/u/76978773"> | `Daniel Vidiri Neto`<br><br>dvn.face@gmail.com | Araras - SP | <a href="https://github.com/dvidirin"> <img height="30" alt="GitHub do Daniel" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvneto/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Dyego Magno`<br><br>dyegowolf@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `João Sales`<br><br>joaomarcos0107@yahoo.com.br | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Moises Hilel`<br><br>moises.hilel@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Morena Flowers`<br><br>msgparamona@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub do Cesar" src="https://avatars.githubusercontent.com/u/100310865?s=400&u=0a294adc47a37c9a8d44ef62bb42c3290982824c&v=4"> | `Patricia Gheller`<br><br>patricia.gheller.1985@gmail.com | Campinas - SP | <a href="https://github.com/cesar-augusto-costa"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-costa/) |
+| <img width="100" alt="Foto de Perfil do GitHub da Yáshina" src="https://avatars.githubusercontent.com/u/104529856"> | `Yáshina Gomes`<br><br>yashinagm@gmail.com | Natal - RN | <a href="https://github.com/YashinaGomes"> <img height="30" alt="GitHub da Yáshina" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y%C3%A1shina-gomes-dev/) |
 
-<b>Este projeto foi elaborado por:</b>
-<ul>
-<li>Cesar Costa - cesar.costa.cac.1993@gmail.com</li>
-<li>Daniel Vidiri Neto - dvn.face@gmail.com</li>
-<li>Dyego Magno - dyegowolf@gmail.com</li>
-<li>João Sales - joaomarcos0107@yahoo.com.br</li>
-<li>Moises Hilel - moises.hilel@gmail.com</li>
-<li>Morena Flowers - msgparamona@gmail.com</li>
-<li>Patricia Gheller - patricia.gheller.1985@gmail.com</li>
-<li>Yáshina Gomes - yashinagm@gmail.com</li>
-</ul>
 
-## **Como Contribuir**
+## **Como Contribuir Com o GIT**
 
-* [Guia de Principais Funções dos Comandos do Git](markedown/como_contribuir_principais_comandos_git.md)
+* [Guia de Principais Funções dos Comandos](markedown/principais_comandos_git.md)
 
-* [Guia para a Equipe](markedown/como_contribuir_equipe.md)
+* [Guia de utilização direta na Branch Principal](markedown/utilizacao_direta_git.md)
 
-* [Guia para a Comunidade](markedown/como_contribuir_comunidade.md)
+* [Guia para dar Fork e fazer suas alterações](markedown/fork_utilizacao_git.md)
 
+* [Guia para fazer Pull Request](markedown/pull_request_git.md)
+
+* [Guia para atualizar o Fork com a Branch Principal](markedown/atualizar_fork_git.md)
 
 ## Como utilizar o Projeto
 
@@ -79,21 +71,66 @@ O projeto foi desenvolvido dentro do VSCode<br>
 
 - Instalar o Python no Windows / Linux / MacOS.
 
-- Instalar a biblioteca Python dentro do VSCode.
+- Instalar a extensão do Python dentro do VSCode.
 
-- Instalar o framework Flask do Python dentro do VSCode.<br>
+- Selecionar Interpretador Python e não o Anaconda.
 
-  ```shell
-  $ pip install flask
-  ```
+### 2-Baixar a tarefa do GitHub e Abrir a pasta com VS Code
 
-### 2-Baixar a tarefa do GitHub
+```
+git clone https://github.com/dvidirin/projeto_backend.git
+```
 
-- Estando no repositório do projeto, clicar no botão "Code" (botão verde) e selecionar "Download ZIP".
+### 3-Alteração da Política de Execução, caso der erro na criação do venv.
 
-- O arquivo virá compactado, descompactar o arquivo.<br>
+- Executar o ´Windows PowerShell´ no modo *Administrador* com o botão direito do mouse.
 
-### 3-Para executar o projeto no VSCode
+- Executar o comando:
+```
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+```
+- Aceitar a alteração: S
+
+### 4-Criar o Ambiente Virtual e Instalar Dependências pelo Terminal
+
+- Criar o Ambiente Virtual no windows
+```
+python -m venv venv
+```
+
+- Criar o Ambiente Virtual no windows
+```
+python3 -m venv venv
+```
+
+- Ativar venv no windows
+```
+.\venv\Scripts\activate
+```
+
+- Ativar venv no linux
+```
+source venv/bin/activate
+```
+
+- Atualize a versão do pip
+```
+python -m pip install --upgrade pip
+```
+
+- Instalar todos os pacotes necessários (dependências)
+```
+pip install -r requirements.txt
+```
+
+- Gerar o requirements.txt
+```
+pip freeze > requirements.txt
+```
+
+### 5-Para executar o projeto no VSCode
+
+- Com o arquivo `app.py` aberto.
 
 - Clique no ícone de play "Run Python file", no canto superior direito.
 
@@ -114,7 +151,7 @@ O projeto foi desenvolvido dentro do VSCode<br>
 * Escola Korú;
 * iFood;
 * Potência Tech;
-* Professor [Gabriel]();
+* Professor [Gabriel];
 * À cada membro do projeto pela dedicação.
 
 ---

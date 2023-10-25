@@ -1,4 +1,4 @@
-## Como Contribuir com esse projeto (Equipe)
+## Guia de utilização direta na Branch Principal
 
 * ### Siga as etapas abaixo:
 
@@ -15,7 +15,7 @@ git config --global user.email 'your_email@domain.com.br'
 ```
 3. **Faça o clone deste repositório.**
 ```
-git clone https://github.com/cesar-augusto-costa/projeto_integrador_FRONT_END_proz_turma11_grupo2.git .
+git clone https://github.com/dvidirin/projeto_backend.git .
 ```
 4. **LEMBRE: Antes de Alterar e Antes de Commitar, atualize seu repositório para evitar conflito.**
 ```
@@ -29,10 +29,11 @@ git add .
 ```
 git add *
 ```
-- Para adicionar um ou mais arquivos expecifico.
+- Para adicionar um arquivo expecifico.
 ```
 git add nome_arquivo.ext
 ```
+- Para adicionar mais arquivos expecifico.
 ```
 git add nome_arquivo.ext outro_nome_arquivo.ext
 ```
