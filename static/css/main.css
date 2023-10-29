@@ -63,3 +63,7 @@ p {
   line-height: 1.5;
   text-align: justify;
 }
+
+.img-200-200 {
+  width: 200px;
+}

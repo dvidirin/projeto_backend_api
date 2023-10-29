@@ -4,37 +4,55 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+  <script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}"></script>
+  <!-- exemplo de importação de uma folha de estilos direto de um link-->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <title>Lista de Inimigos</title>
 </head>
 
 <body>
-  <h1>Lista de Inimigos</h1>
-  <table>
-    <tr>
-      <th>ID</th>
-      <th>Nome</th>
-      <th>Tipo</th>
-      <th>Poder</th>
-      <th>Vida</th>
-      <th>Imagem</th>
-    </tr>
-    {% for id, inimigo in inimigos.items() %}
-    <tr>
-      <td>{{ id }}</td>
-      <td>{{ inimigo['nome'] }}</td>
-      <td>{{ inimigo['tipo'] }}</td>
-      <td>{{ inimigo['poder'] }}</td>
-      <td>{{ inimigo['vida'] }}</td>
-      <td><img src="{{ inimigo['imagem'] }}" alt="thumbnail" class="img-thumbnail"</td>
-      <td>
-        <a href="/editar/{{ id }}">Editar</a>
-        <a href="/deletar/{{ id }}">Deletar</a>
-      </td>
-    </tr>
-    {% endfor %}
-  </table>
-  <a href="/adicionar">Adicionar Novo Inimigo</a>
+  <div class="container-fluid">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="{{ url_for('listar_inimigos') }}">Inimigos</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </nav>
+  </div>
+  <div class="container mt-3">
+    <h1>Lista de Inimigos</h1>
+    <a href="{{ url_for('editar_inimigo', id=0) }}" class="btn btn-primary">Adicionar</a>
+    <hr>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Tipo</th>
+          <th>Poder</th>
+          <th>Vida</th>
+          <th>Imagem</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for id, nome, tipo, poder, vida, imagem in lista_inimigos %}
+        <tr>
+          <td>{{ id }}</td>
+          <td>{{ nome }}</td>
+          <td>{{ tipo }}</td>
+          <td>{{ poder }}</td>
+          <td>{{ vida }}</td>
+          <td><img src="{{ url_for('static', filename='images/enemies/' + imagem) }}" height="200" width="200" alt="thumbnail" class="img-thumbnail"></td>
+          <td>
+            <a href="{{ url_for('exibir_inimigo', id=id)}}">Editar</a>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 </body>
-
 </html>
