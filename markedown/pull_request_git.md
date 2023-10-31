@@ -14,7 +14,7 @@ git checkout -b minha-contribuicao
 git push origin minha-contribuicao
 ```
 
-4. Abra um Pull Request no [GitHub](https://github.com/dvidirin/projeto_backend.git).
+4. Abra um Pull Request no link: [https://github.com/`SEU-USUARIO`/projeto_backend/pull/new/`minha-contribuicao`] ele aparece após o comando anterior.
 
 5. Volte pra sua branch principal.
 ```
