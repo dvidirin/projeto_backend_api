@@ -34,6 +34,12 @@ Uma linguagem de marcação de hipertexto para apresentar e estruturar o conteú
 :heavy_check_mark: <b>CSS3</b><br>
 Uma linguagem usada para estilizar elementos escritos em uma linguagem de marcação como HTML.<br>
 
+:heavy_check_mark: <b>SQLite</b><br>
+Banco de dados utilizado no projeto.<br>
+
+:heavy_check_mark: <b>Insomnia ou Postman</b><br>
+Uma plataforma API para construir e usar APIs.<br>
+
 ---
 
 ## :handshake: **EQUIPE:**

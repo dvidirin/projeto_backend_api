@@ -157,7 +157,14 @@ def retornar_inimigo(id: int):
         cursor.execute(sql_select, (id,))
         id, nome, tipo, poder, vida, imagem = cursor.fetchone()
         conn.close()
-        return id, nome, tipo, poder, vida, imagem
+        return {
+            "id": id,
+            "nome": nome,
+            "tipo": tipo,
+            "poder": poder,
+            "vida": vida,
+            "imagem": imagem,
+        }
     except:
         return False
 
@@ -170,13 +177,24 @@ def retornar_inimigo(id: int):
 # read retorna todos os inimigos novo
 def retornar_inimigos():
     try:
+        resultado = []
         conn = sqlite3.connect("inimigos.db")
         cursor = conn.cursor()
         sql_select = "SELECT * FROM inimigo"
         cursor.execute(sql_select)
         inimigos = cursor.fetchall()
         conn.close()
-        return inimigos
+        for item in inimigos:
+            inimigo = {
+                "id": item[0],
+                "nome": item[1],
+                "tipo": item[2],
+                "poder": item[3],
+                "vida": item[4],
+                "imagem": item[5],
+            }
+            resultado.append(inimigo)
+        return resultado
     except:
         return False
 
